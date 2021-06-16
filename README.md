@@ -11,7 +11,7 @@
 
 ### 🛠️ Deploy And Get String
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fhmyngrh/Geez-UserBot/tree/Geez-UserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fhmyngrh/ZeldaUserBot/tree/zeldaubot)
 
 <a href="https://replit.com/@fhmyngrh/Zelda-String-Session"><img src="https://img.shields.io/badge/RUN-Get__String-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
